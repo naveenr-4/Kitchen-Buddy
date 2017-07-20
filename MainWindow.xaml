@@ -1,0 +1,58 @@
+﻿<Window x:Name="KitchenBuddy" x:Class="KitchenBuddy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KitchenBuddy"
+        mc:Ignorable="d"
+        Title="KitchenBuddy" Width="525" Height="532">
+
+    <Grid>
+
+        <StackPanel x:Name="PanelBackground">
+            <StackPanel.Background>
+                <ImageBrush ImageSource="C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\Resources\Background.jpg"/>
+            </StackPanel.Background>
+            <StackPanel>
+                <TextBlock FontWeight="DemiBold" FontSize="24" Foreground="AntiqueWhite" HorizontalAlignment="Center" FontFamily="Segoe Script" >Kitchen Buddy</TextBlock>
+            </StackPanel>
+            <DockPanel Margin="197,0,219,0" >
+                <Button x:Name="RecordButton" Height="29" Width="42" Click="RecordButton_Click" BorderThickness="0">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <Image Name="Image" Stretch="Uniform" Source="C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\Resources\microphone-icon.png" />
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter TargetName="Image" Property="Source" Value="C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\Resources\microphone-icon.png" />
+                                </Trigger>
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Button.Template>
+                    <Button.Background>
+                        <ImageBrush ImageSource="C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\Resources\microphone-icon.png" Stretch="Uniform"/>
+                    </Button.Background>
+                    <TextBlock/>
+                </Button>
+                <!--<Button x:Name="StopButton" Height="29" Width="24" RenderTransformOrigin="4.75,-0.276" Click="StopButton_Click" BorderThickness="0">
+                    <Button.Background>
+                        <ImageBrush ImageSource="E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\Resources\stop-button.jpg" Stretch="None"/>
+                    </Button.Background>
+                </Button>-->
+            </DockPanel>
+            <Label x:Name="lblDisplay" Margin="151,0,104.444,0" Height="27" Content="Press button to start Recognition"/>
+            <TextBlock  Foreground="FloralWhite" FontFamily="Papyrus" Margin="0,20,-0.556,0"><Run Text="Say Restart if you want to restart at any point of time."/></TextBlock>
+            <ListBox x:Name="lbTodoList" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalContentAlignment="Stretch" ScrollViewer.HorizontalScrollBarVisibility= "Disabled" Foreground="FloralWhite" FontFamily="Papyrus" Background="Transparent" BorderThickness="0" BorderBrush="Ivory" IsSynchronizedWithCurrentItem="True" FontSize="16">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock TextWrapping="Wrap" Text="{Binding}" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <!--<TextBlock Name="txtBlockDisplay"></TextBlock>-->
+            <!--<TextBlock Name="txtBlockDisplay"></TextBlock>-->
+
+        </StackPanel>
+
+    </Grid>
+</Window>

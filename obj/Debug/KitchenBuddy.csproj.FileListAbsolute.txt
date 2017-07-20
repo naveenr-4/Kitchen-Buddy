@@ -1,0 +1,164 @@
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\KitchenBuddy.exe.config
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.csprojResolveAssemblyReference.cache
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\obj\Debug\MainWindow.g.cs
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\obj\Debug\App.g.cs
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy_MarkupCompile.cache
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy_MarkupCompile.lref
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\KitchenBuddy.exe
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\KitchenBuddy.pdb
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\FlacBox.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\NAudio.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Newtonsoft.Json.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\TranscribeAsync.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\unirest-net.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Core.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.PlatformServices.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\log4net.dll
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\FlacBox.pdb
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\NAudio.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Newtonsoft.Json.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\TranscribeAsync.pdb
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.pdb
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.pdb
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Core.pdb
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Core.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.pdb
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\BouncyCastle.Crypto.pdb
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.PlatformServices.pdb
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.PlatformServices.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\bin\Debug\log4net.xml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\obj\Debug\MainWindow.baml
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.g.resources
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.Properties.Resources.resources
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.csproj.GenerateResource.Cache
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.exe
+c:\users\divya\documents\visual studio 2015\Projects\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.pdb
+C:\Users\Divya\Documents\Visual Studio 2015\Projects\KitchenBuddy\KitchenBuddy_0\bin\Debug\KitchenBuddy.exe.config
+C:\Users\Divya\Documents\Visual Studio 2015\Projects\KitchenBuddy\KitchenBuddy_0\obj\Debug\KitchenBuddy.exe
+C:\Users\Divya\Documents\Visual Studio 2015\Projects\KitchenBuddy\KitchenBuddy_0\obj\Debug\KitchenBuddy.pdb
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\KitchenBuddy.exe.config
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\KitchenBuddy.exe
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\KitchenBuddy.pdb
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Newtonsoft.Json.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\System.Net.Http.Extensions.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\System.Net.Http.Primitives.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\unirest-net.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Newtonsoft.Json.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\System.Net.Http.Extensions.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\System.Net.Http.Primitives.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.csprojResolveAssemblyReference.cache
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\obj\Debug\MainWindow.g.cs
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\obj\Debug\App.g.cs
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy_MarkupCompile.cache
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy_MarkupCompile.lref
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\obj\Debug\MainWindow.baml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.g.resources
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.Properties.Resources.resources
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.csproj.GenerateResource.Cache
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.exe
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.pdb
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\BouncyCastle.Crypto.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Core.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.PlatformServices.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\log4net.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Zlib.Portable.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\BouncyCastle.Crypto.pdb
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.pdb
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.pdb
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Core.pdb
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Core.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.PlatformServices.pdb
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.PlatformServices.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\log4net.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Zlib.Portable.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.pdb
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.xml
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\TranscribeAsync.dll
+E:\sem 1\Dialog systems\KitchenBuddy\KitchenBuddy\bin\Debug\TranscribeAsync.pdb
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\KitchenBuddy.exe.config
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.exe
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.pdb
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\KitchenBuddy.exe
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\KitchenBuddy.pdb
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\BouncyCastle.Crypto.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Core.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\log4net.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Newtonsoft.Json.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\System.Net.Http.Extensions.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\System.Net.Http.Primitives.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\TranscribeAsync.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\unirest-net.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Zlib.Portable.dll
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\TranscribeAsync.pdb
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.pdb
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.pdb
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.pdb
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.CloudSpeechAPI.v1beta1.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Core.pdb
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.Core.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\log4net.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Newtonsoft.Json.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\System.Net.Http.Extensions.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\System.Net.Http.Primitives.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\bin\Debug\Zlib.Portable.xml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.csprojResolveAssemblyReference.cache
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\obj\Debug\MainWindow.g.cs
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\obj\Debug\App.g.cs
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy_MarkupCompile.cache
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy_MarkupCompile.lref
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\obj\Debug\MainWindow.baml
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.g.resources
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.Properties.Resources.resources
+C:\Uf Courses\Dialogue\KitchenBuddy\KitchenBuddy\obj\Debug\KitchenBuddy.csproj.GenerateResource.Cache
